@@ -1,5 +1,5 @@
 # Manager README
-https://managerreadme.com/
+Based off of https://managerreadme.com/
 
 ## Motivation for this document
 
