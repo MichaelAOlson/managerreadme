@@ -1,0 +1,2 @@
+# managerreadme
+https://managerreadme.com/
