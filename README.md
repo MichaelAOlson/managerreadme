@@ -7,11 +7,11 @@ I want to be easy to work with. People operate differently, so I created this 
 
 ## My role
 
-I want to build awesome things with great people. I hold myself accountable for the systems and products that I influence and aim to help those around me improve.
+I build systems that scale, teams that innovate, and products that endure. My responsibility is not just to deliver - it is to architect for the long term, to remove friction, and to ensure every decision made today does not become a technical debt story tomorrow.
 
-As a leader, it is my responsibility to understand and empower my team. I aim to foster a culture of open communication, to provide autonomy and ownership with defined outcomes rather than rigid process, and to invest in the growth and development of my team. I encourage regular public recognition, time for exploration and experimentation, and adaptability around requirements changes and team evolution. Celebrating milestones, even the little ones, builds pride in the team for their contributions, so I rally around showcasing these milestones as they happen.
+As a leader, it is my responsibility to understand and empower my team. I hold myself accountable for the systems and products that I influence and aim to help those around me improve. I set clear goals and deliverables, then trust my team to own the how. Micromanagement is a leadership failure. I invest in autonomy, accountability, and the discipline to deliver. Adaptability is the difference between a product that bends and one that breaks. Open communication is the foundation of a culture with competitive advantage. We call out problems early, debate fearlessly, and celebrate our wins, big and small, because pride in craftsmanship drives excellence.
 
-As an individual contributor, it is my responsibility to deliver quality, tested, and performant code and systems. It is also my responsibility to document and raise concerns over untested and edge-case behavior, performance issues, vulnerabilities, and new dependencies. I should be able to explain my design decisions and share any exploratory or experimental work performed during development. You can rely on my word and my work. Trust that radical candor will be WELL RECEIVED!
+As an individual contributor, it is my responsibility to deliver quality, tested, and performant solutions. Untested code, unaddressed performance bottlenecks, and ignored vulnerabilities are failures of ownership. Every design decision has a rationale and every dependency has a cost. I document the why just as rigorously as the what. If something’s broken, I will tell you. If a path forward is risky, I will flag it. If I am wrong, I will own that too. The best teams are not the ones that never fail, they are the ones that fail fast, learn fast, and ship strong. You can rely on my word and my work. Trust that radical candor will be WELL RECEIVED!
 
 ## What do I value most?
 
